@@ -1,0 +1,1 @@
+export const SERVER_POST: number = Number(process.env.PORT) || 5000;
